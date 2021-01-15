@@ -110,7 +110,7 @@ e5.place(x=230, y=120+50)
 
 e1.focus()
 
-list1= Listbox(frame,height=13,width=89, relief=RIDGE, bd=5, bg="#ffffff", fg="blue", font=("Arial",10,"bold"))
+list1= Listbox(frame,height=13,width=89, relief=RIDGE, bd=5, bg="#3d3d3d", fg="gold", font=("Arial",10,"bold"))
 list1.pack(side=LEFT)
 
 sb1=Scrollbar(frame)

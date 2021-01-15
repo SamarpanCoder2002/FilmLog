@@ -7,7 +7,7 @@
 
 ## <p align="center">💻 Presenting New Project FLIMLOG 💻</p>
 
-<p align="center"><img src="Images_for_README/modified_version2.png"></p>
+<p align="center"><img src="Images_for_README/flim_gif.gif"></p>
 
 ---
 
